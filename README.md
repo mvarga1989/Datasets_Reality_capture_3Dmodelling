@@ -7,6 +7,7 @@
 - [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
 - [**Wingtra UAV datasets**](https://wingtra.com/mapping-drone-wingtraone/aerial-map-types/data-sets-and-maps/)
 - [**Capturing reality**](https://www.capturingreality.com/free-datasets)
+- [**Trmble Geospatial datasets**](https://geospatial.trimble.com/en/datasets)
 - [**Agisoft sample datasets**](https://www.agisoft.com/downloads/sample-data/)
 - [**Open Drone Map datasets**](https://www.opendronemap.org/odm/datasets/)
 
