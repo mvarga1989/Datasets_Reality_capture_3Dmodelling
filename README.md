@@ -6,6 +6,7 @@
 - [**Collection of 350+ free datasets for photogrammetry and 3d modelling**](https://github.com/natowi/photogrammetry_datasets)
 - [**The ISPRS dataset collection**](https://www.isprs.org/data/)
 - [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
+- [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
 - [**Wingtra UAV datasets**](https://wingtra.com/mapping-drone-wingtraone/aerial-map-types/data-sets-and-maps/)
 - [**Capturing reality**](https://www.capturingreality.com/free-datasets)
 - [**Trimble Geospatial datasets**](https://geospatial.trimble.com/en/datasets)
