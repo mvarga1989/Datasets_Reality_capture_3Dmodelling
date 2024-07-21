@@ -40,5 +40,6 @@
    - Reference Benchmark Data and Deep Learning Models for Landslide Detection
 # Useful
 
+- [**Photography based 3D modelling, reconstruction, laser scanning and photogrammetry**](https://paulbourke.net/reconstruction/)
 - [**Photogrammetry guide**](https://github.com/mikeroyal/Photogrammetry-Guide)
 - [**UNAVCO Geospatial & TLS Software - User Tutorials and Resources**](https://kb.unavco.org/article/unavco-geospatial-tls-software-user-tutorials-and-resources-826.html)
