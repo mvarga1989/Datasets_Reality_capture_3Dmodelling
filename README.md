@@ -10,6 +10,7 @@
 # Photogrammetry, LiDAR, laser scanning data collections
 - [**Benchmark datasets**](https://benchmedata.org/BeMeDa)
 - [**Collection of 350+ free datasets for photogrammetry and 3d modelling**](https://github.com/natowi/photogrammetry_datasets)
+- [**Drone Mapper**](https://dronemapper.com/sample_data/)
 - [**The ISPRS dataset collection**](https://www.isprs.org/data/)
 - [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
 - [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
