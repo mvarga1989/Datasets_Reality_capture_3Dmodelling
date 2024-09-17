@@ -12,10 +12,11 @@
 - [**Collection of 350+ free datasets for photogrammetry and 3d modelling**](https://github.com/natowi/photogrammetry_datasets)
 - [**Drone Mapper**](https://dronemapper.com/sample_data/)
 - [**The ISPRS dataset collection**](https://www.isprs.org/data/)
-- [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
+- [**Emesent**](https://emesent.com/resource-library/datasets/)
 - [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
 - [**Wingtra UAV datasets**](https://wingtra.com/mapping-drone-wingtraone/aerial-map-types/data-sets-and-maps/)
 - [**Capturing reality**](https://www.capturingreality.com/free-datasets)
+- [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
 - [**Trimble Geospatial datasets**](https://geospatial.trimble.com/en/datasets)
 - [**Agisoft sample datasets**](https://www.agisoft.com/downloads/sample-data/)
 - [**UAV/RGB data**](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Skaloud%2C%20Jan%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
@@ -24,6 +25,12 @@
 - [**UNAVCO SFM datasets**](https://tls.unavco.org/sfm_projects)
 - [**Reconstruction Dataset**](https://github.com/rperrot/ReconstructionDataSet)
 
+# Websites where you can download the Lidar datasets for free
+- USGS Earth Explorer
+- NOAA Digital Coast
+- Open Topography
+- National Ecological Observatory Network (NEON).
+ 
 # Individual datasets
 - [**UseGeo - UAV-based multi-sensor dataset for geospatial research**](https://github.com/3DOM-FBK/usegeo)
    - a large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc.
@@ -40,7 +47,8 @@
 - [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022)
    - Reference Benchmark Data and Deep Learning Models for Landslide Detection
 # Useful
-
+- [**Your Name in Landsat**](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 - [**Photography based 3D modelling, reconstruction, laser scanning and photogrammetry**](https://paulbourke.net/reconstruction/)
 - [**Photogrammetry guide**](https://github.com/mikeroyal/Photogrammetry-Guide)
+- [**Awesome photogrammetry projects**](https://github.com/awesome-photogrammetry/awesome-photogrammetry)
 - [**UNAVCO Geospatial & TLS Software - User Tutorials and Resources**](https://kb.unavco.org/article/unavco-geospatial-tls-software-user-tutorials-and-resources-826.html)
