@@ -32,6 +32,7 @@
 - National Ecological Observatory Network (NEON).
  
 # Individual datasets
+- [**Omni Warsaw Dataset**](https://github.com/MapsHD/OmniWarsawDataset?tab=readme-ov-file)
 - [**UseGeo - UAV-based multi-sensor dataset for geospatial research**](https://github.com/3DOM-FBK/usegeo)
    - a large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc.
 - **LiSurveying: A high-resolution TLS-LiDAR benchmark**
