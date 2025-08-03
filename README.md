@@ -16,7 +16,7 @@
 - [**Drone Mapper**](https://dronemapper.com/sample_data/)
 - [**Emesent**](https://emesent.com/resource-library/datasets/)
 - [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
-- [**ISPRS dataset collection**](https://www.isprs.org/data/)
+- [**ISPRS dataset collection**](https://www.isprs.org/resources/datasets/)
 - [**MicMac datasets**](https://micmac.ensg.eu/index.php/Datasets)
 - [**Open Drone Map datasets**](https://www.opendronemap.org/odm/datasets/)
 - [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
@@ -30,15 +30,17 @@
 - [**Wingtra UAV datasets**](https://wingtra.com/mapping-drone-wingtraone/aerial-map-types/data-sets-and-maps/)
 
 
-# Websites where you can download the Lidar datasets for free
-- USGS Earth Explorer
-- NOAA Digital Coast
-- Open Topography
-- National Ecological Observatory Network (NEON).
- 
 # Individual datasets
+
+- [BigSFM: Reconstructing the World from Internet Photos](https://www.cs.cornell.edu/projects/bigsfm/)
+- [**Photogrammetry Beavers**](https://seattlechildrens1.app.box.com/v/PhotogrammetrySampleData)
+- [**Photogrammetry Images from DJI P4, point clouds scripts and supporting data**](https://data.4tu.nl/articles/dataset/Photogrammetry_Images_from_DJI_P4_point_clouds_scripts_and_supporting_data/14865225/1)
+- [**Drone / Unmanned Aerial Vehicle raw and processed photogrammetry data, supporting the MSc thesis work 3D River Discharge Modelling using UAV photogrammetry**](https://data.4tu.nl/datasets/63a75bfc-4845-4827-9840-da9f710efb36/1)
+- [**Rooms University Zürich**](https://www.ifi.uzh.ch/en/vmml/research/datasets.html)
 - [**Original point cloud from laser scanning of the Kladno railway station**](https://zenodo.org/records/14221915)
 - [**Omni Warsaw Dataset**](https://github.com/MapsHD/OmniWarsawDataset?tab=readme-ov-file)
+
+# Research datasets
 - [**UseGeo - UAV-based multi-sensor dataset for geospatial research**](https://github.com/3DOM-FBK/usegeo)
    - a large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc.
 - **LiSurveying: A high-resolution TLS-LiDAR benchmark**
@@ -53,9 +55,21 @@
 # Geomatics 
 - [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022)
    - Reference Benchmark Data and Deep Learning Models for Landslide Detection
-# Useful
+   
+# Websites where you can download the Lidar datasets for free
+- USGS Earth Explorer
+- NOAA Digital Coast
+- Open Topography
+- National Ecological Observatory Network (NEON).
+
+# Useful links 
+
 - [**Your Name in Landsat**](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 - [**Photography based 3D modelling, reconstruction, laser scanning and photogrammetry**](https://paulbourke.net/reconstruction/)
 - [**Photogrammetry guide**](https://github.com/mikeroyal/Photogrammetry-Guide)
 - [**Awesome photogrammetry projects**](https://github.com/awesome-photogrammetry/awesome-photogrammetry)
 - [**UNAVCO Geospatial & TLS Software - User Tutorials and Resources**](https://kb.unavco.org/article/unavco-geospatial-tls-software-user-tutorials-and-resources-826.html)
+
+# Copyright
+
+Please take care of the copyright obligations of each dataset that you are using.
