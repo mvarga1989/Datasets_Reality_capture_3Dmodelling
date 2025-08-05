@@ -10,11 +10,13 @@
 # Photogrammetry, LiDAR, laser scanning data collections
 - [**Agisoft sample datasets**](https://www.agisoft.com/downloads/sample-data/)
 - [**Benchmark datasets**](https://benchmedata.org/BeMeDa)
+- [BigSFM: Reconstructing the World from Internet Photos](https://www.cs.cornell.edu/projects/bigsfm/)
 - [**Capturing reality**](https://www.capturingreality.com/free-datasets)
 - [**Colmap datasets**](https://colmap.github.io/datasets.html)
 - [**Collection of 350+ free datasets for photogrammetry and 3d modelling**](https://github.com/natowi/photogrammetry_datasets)
 - [**Drone Mapper**](https://dronemapper.com/sample_data/)
 - [**Emesent**](https://emesent.com/resource-library/datasets/)
+- [**FigShare photogrammetry**](https://figshare.com/search?q=%3Akeyword%3A%20%22photogrammetry%22&itemTypes=3)
 - [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
 - [**ISPRS dataset collection**](https://www.isprs.org/resources/datasets/)
 - [**MicMac datasets**](https://micmac.ensg.eu/index.php/Datasets)
@@ -22,6 +24,7 @@
 - [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
 - [Pix4D](https://support.pix4d.com/hc/en-us/articles/360000235126-Example-projects-real-photogrammetry-data)
 - [**Sketchfab, A few free datasets**](https://sketchfab.com/3d-models/example-photogrammetry-datasets-free-ac9c30e8ae8c40da8217981862cc2147)
+- [Reality Scan Sample datasets](https://dev.epicgames.com/community/learning/sample-projects/j20e/realityscan-sample-datasets)
 - [**Trimble Geospatial datasets**](https://geospatial.trimble.com/en/datasets)
 - [**UAV/RGB data**](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Skaloud%2C%20Jan%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
 - [**UNAVCO TLS datasets**](https://tls.unavco.org/projects/)
@@ -32,7 +35,8 @@
 
 # Individual datasets
 
-- [BigSFM: Reconstructing the World from Internet Photos](https://www.cs.cornell.edu/projects/bigsfm/)
+- [**TBC Aeriel Photogrammetry**](https://geospatial.trimble.com/en/datasets/tbc-aerial-photogrammetry-no-gcps)
+- [**UAV dataset for photogrammetric processing**](https://figshare.com/articles/dataset/UAV_dataset_for_photogrammetric_processing/29377400)
 - [**Photogrammetry Beavers**](https://seattlechildrens1.app.box.com/v/PhotogrammetrySampleData)
 - [**Photogrammetry Images from DJI P4, point clouds scripts and supporting data**](https://data.4tu.nl/articles/dataset/Photogrammetry_Images_from_DJI_P4_point_clouds_scripts_and_supporting_data/14865225/1)
 - [**Drone / Unmanned Aerial Vehicle raw and processed photogrammetry data, supporting the MSc thesis work 3D River Discharge Modelling using UAV photogrammetry**](https://data.4tu.nl/datasets/63a75bfc-4845-4827-9840-da9f710efb36/1)
@@ -52,6 +56,11 @@
    - a pioneer multimodal dataset that includes point-clouds from a LiDAR sensor as well as front-facing stereo images and GPS/IMU data. This dataset with 8 classes is useful for AV applications using MLS point-clouds and front-facing stereo images. This dataset contains about 15k point-cloud frames with 200k 3D bounding boxes on 22 different scenes.
 -  Paris-Lille-3D
 -  Toronto-3D
+
+# Google search
+
+- [Google search, photogrammetric dataset download](https://www.google.com/search?q=photogrammetric+dataset+download)
+
 # Geomatics 
 - [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022)
    - Reference Benchmark Data and Deep Learning Models for Landslide Detection
