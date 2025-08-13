@@ -3,11 +3,11 @@
 **If this content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!**
 
 **Other useful lists that I maintain are available here [:link:](https://github.com/mvarga1989#community-lists-that-i-maintain)**
-
 **Find out more about me here [:link:](https://mvarga1989.github.io/Matej_Varga/) and here [:link:](https://mvarga1989.github.io/mvarga1989_linktree/)**
 
 
 # Photogrammetry, LiDAR, laser scanning data collections
+
 - [**Agisoft sample datasets**](https://www.agisoft.com/downloads/sample-data/)
 - [**Benchmark datasets**](https://benchmedata.org/BeMeDa)
 - [BigSFM: Reconstructing the World from Internet Photos](https://www.cs.cornell.edu/projects/bigsfm/)
@@ -20,6 +20,7 @@
 - [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
 - [**ISPRS dataset collection**](https://www.isprs.org/resources/datasets/)
 - [**MicMac datasets**](https://micmac.ensg.eu/index.php/Datasets)
+- [**NOAA Library Photogrammetry Datasets**](https://discover.library.noaa.gov/discovery/search?query=any,contains,photogrammetry&tab=Everything&search_scope=MyInst_and_CI&vid=01NOAA_INST:NOAA&mfacet=rtype,include,datasets,1&lang=en&offset=0&pcAvailability=true)
 - [**Open Drone Map datasets**](https://www.opendronemap.org/odm/datasets/)
 - [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
 - [Pix4D](https://support.pix4d.com/hc/en-us/articles/360000235126-Example-projects-real-photogrammetry-data)
@@ -35,7 +36,10 @@
 
 # Individual datasets
 
-- [**TBC Aeriel Photogrammetry**](https://geospatial.trimble.com/en/datasets/tbc-aerial-photogrammetry-no-gcps)
+- [**UAV Canyelles Vineyard Dataset**](https://zenodo.org/records/14965547)
+- [**Terrestrial and aerial photos, GCPs and derived point clouds of a sinkhole in Northern Thuringia**](https://zenodo.org/records/6521706)
+- [**Images and Point Clouds Cultural Heritage Dataset](https://zenodo.org/records/14626611)
+- [**TBC Aerial Photogrammetry**](https://geospatial.trimble.com/en/datasets/tbc-aerial-photogrammetry-no-gcps)
 - [**UAV dataset for photogrammetric processing**](https://figshare.com/articles/dataset/UAV_dataset_for_photogrammetric_processing/29377400)
 - [**Photogrammetry Beavers**](https://seattlechildrens1.app.box.com/v/PhotogrammetrySampleData)
 - [**Photogrammetry Images from DJI P4, point clouds scripts and supporting data**](https://data.4tu.nl/articles/dataset/Photogrammetry_Images_from_DJI_P4_point_clouds_scripts_and_supporting_data/14865225/1)
@@ -45,6 +49,7 @@
 - [**Omni Warsaw Dataset**](https://github.com/MapsHD/OmniWarsawDataset?tab=readme-ov-file)
 
 # Research datasets
+- [**SilviLaser 2021 Benchmark Dataset**](https://doi.org/10.48436/kndye-egv02) Hollaus, M., & Chen, Y.-C. (2023).  Terrestrial Challenge (1.1) [Data set]. TU Wien.
 - [**UseGeo - UAV-based multi-sensor dataset for geospatial research**](https://github.com/3DOM-FBK/usegeo)
    - a large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc.
 - **LiSurveying: A high-resolution TLS-LiDAR benchmark**
@@ -57,9 +62,12 @@
 -  Paris-Lille-3D
 -  Toronto-3D
 
-# Google search
+# Search portals
 
 - [Google search, photogrammetric dataset download](https://www.google.com/search?q=photogrammetric+dataset+download)
+- [Zenodo search](https://zenodo.org/search?q=metadata.subjects.subject%3A%22Point%20Clouds%22&f=resource_type%3Adataset&l=list&p=2&s=10&sort=bestmatch)
+- [Zenodo search 2](https://zenodo.org/search?q=metadata.subjects.subject%3A%22UAV%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
+- [Data in Brief search](https://www.sciencedirect.com/search?qs=photogrammetry&pub=Data+in+Brief&cid=311593)
 
 # Geomatics 
 - [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022)
