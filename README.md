@@ -18,12 +18,13 @@
 - [**Emesent**](https://emesent.com/resource-library/datasets/)
 - [**FigShare photogrammetry**](https://figshare.com/search?q=%3Akeyword%3A%20%22photogrammetry%22&itemTypes=3)
 - [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
+- [**ISPRS Open Resources (datasets, papers, reports, presentations, education, software/hardware, templates, ...**](https://www.isprs.org/resources/Default.aspx)
 - [**ISPRS dataset collection**](https://www.isprs.org/resources/datasets/)
 - [**MicMac datasets**](https://micmac.ensg.eu/index.php/Datasets)
 - [**NOAA Library Photogrammetry Datasets**](https://discover.library.noaa.gov/discovery/search?query=any,contains,photogrammetry&tab=Everything&search_scope=MyInst_and_CI&vid=01NOAA_INST:NOAA&mfacet=rtype,include,datasets,1&lang=en&offset=0&pcAvailability=true)
 - [**Open Drone Map datasets**](https://www.opendronemap.org/odm/datasets/)
 - [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
-- [Pix4D](https://support.pix4d.com/hc/en-us/articles/360000235126-Example-projects-real-photogrammetry-data)
+- [**Pix4D**](https://support.pix4d.com/hc/en-us/articles/360000235126-Example-projects-real-photogrammetry-data)
 - [**Sketchfab, A few free datasets**](https://sketchfab.com/3d-models/example-photogrammetry-datasets-free-ac9c30e8ae8c40da8217981862cc2147)
 - [Reality Scan Sample datasets](https://dev.epicgames.com/community/learning/sample-projects/j20e/realityscan-sample-datasets)
 - [**Trimble Geospatial datasets**](https://geospatial.trimble.com/en/datasets)
@@ -38,7 +39,7 @@
 
 - [**UAV Canyelles Vineyard Dataset**](https://zenodo.org/records/14965547)
 - [**Terrestrial and aerial photos, GCPs and derived point clouds of a sinkhole in Northern Thuringia**](https://zenodo.org/records/6521706)
-- [**Images and Point Clouds Cultural Heritage Dataset](https://zenodo.org/records/14626611)
+- [**Images and Point Clouds Cultural Heritage Dataset**](https://zenodo.org/records/14626611)
 - [**TBC Aerial Photogrammetry**](https://geospatial.trimble.com/en/datasets/tbc-aerial-photogrammetry-no-gcps)
 - [**UAV dataset for photogrammetric processing**](https://figshare.com/articles/dataset/UAV_dataset_for_photogrammetric_processing/29377400)
 - [**Photogrammetry Beavers**](https://seattlechildrens1.app.box.com/v/PhotogrammetrySampleData)
@@ -48,7 +49,26 @@
 - [**Original point cloud from laser scanning of the Kladno railway station**](https://zenodo.org/records/14221915)
 - [**Omni Warsaw Dataset**](https://github.com/MapsHD/OmniWarsawDataset?tab=readme-ov-file)
 
+# Datasets for point cloud classification
+
+- [ISPRS Benchmark on Semantic Segmentation of High-Resolution 3D Point Clouds and Meshes](https://www.isprs.org/resources/datasets/benchmarks/)
+- GitHub - meidachen/STPLS3D: Synthetic and real-world 2d/3d dataset for semantic and instance segmentation (BMVC 2022 Oral)
+- GitHub - QingyongHu/SensatUrban: Urban-scale point cloud dataset (CVPR 2021 & IJCV 2022)
+- Campus3D (storage format is kind of weird, needs some normalization)
+- DublinCity – V-SENSE (LiDAR)
+
+
 # Research datasets
+
+- [**Railroad Environment Mobile Laser Scanning Data**](https://zenodo.org/records/14415639)
+   - ROAMER R4 mobile laser scanner developed at FGI was installed on a service locomotive at about 4 m height from the rails.
+   - Riegl VUX-1HA laser scanner with unobstructed 360-degree view and ranging precision of 3 mm.
+   - 2 km of track and 42.9M points.
+   - From 2 to 4 parallel tracks and multiple intersections.
+   - 9 cm along-track profile spacing and point density varying between 300 pts/m2 (third-adjacent track) and 4500 pts/m2 (track straight below scanner).
+   - Data includes geometry and intensity information as well as point-wise time stamps.
+   - Both compressed (.laz) and uncompressed files (.las) are provided
+- [**Fuji SfM dataset**](https://zenodo.org/records/3712808#.XnD82iNCe01)
 - [**SilviLaser 2021 Benchmark Dataset**](https://doi.org/10.48436/kndye-egv02) Hollaus, M., & Chen, Y.-C. (2023).  Terrestrial Challenge (1.1) [Data set]. TU Wien.
 - [**UseGeo - UAV-based multi-sensor dataset for geospatial research**](https://github.com/3DOM-FBK/usegeo)
    - a large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc.
@@ -64,6 +84,7 @@
 
 # Search portals
 
+- [Zenodo search laser scanning](https://zenodo.org/search?q=metadata.subjects.subject%3A%22laser%20scanning%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
 - [Google search, photogrammetric dataset download](https://www.google.com/search?q=photogrammetric+dataset+download)
 - [Zenodo search](https://zenodo.org/search?q=metadata.subjects.subject%3A%22Point%20Clouds%22&f=resource_type%3Adataset&l=list&p=2&s=10&sort=bestmatch)
 - [Zenodo search 2](https://zenodo.org/search?q=metadata.subjects.subject%3A%22UAV%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
