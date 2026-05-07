@@ -8,46 +8,57 @@
 
 # Photogrammetry, LiDAR, laser scanning data collections
 
-- [**Agisoft sample datasets**](https://www.agisoft.com/downloads/sample-data/)
-- [**Benchmark datasets**](https://benchmedata.org/BeMeDa)
+- [Agisoft sample datasets](https://www.agisoft.com/downloads/sample-data/)
+- [Benchmark datasets](https://benchmedata.org/BeMeDa)
 - [BigSFM: Reconstructing the World from Internet Photos](https://www.cs.cornell.edu/projects/bigsfm/)
-- [**Capturing reality**](https://www.capturingreality.com/free-datasets)
-- [**Colmap datasets**](https://colmap.github.io/datasets.html)
-- [**Collection of 350+ free datasets for photogrammetry and 3d modelling**](https://github.com/natowi/photogrammetry_datasets)
-- [**Drone Mapper**](https://dronemapper.com/sample_data/)
-- [**Emesent**](https://emesent.com/resource-library/datasets/)
-- [**FigShare photogrammetry**](https://figshare.com/search?q=%3Akeyword%3A%20%22photogrammetry%22&itemTypes=3)
-- [**EPFL images and depth maps**](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
-- [**ISPRS Open Resources (datasets, papers, reports, presentations, education, software/hardware, templates, ...**](https://www.isprs.org/resources/Default.aspx)
-- [**ISPRS dataset collection**](https://www.isprs.org/resources/datasets/)
-- [**MicMac datasets**](https://micmac.ensg.eu/index.php/Datasets)
-- [**NOAA Library Photogrammetry Datasets**](https://discover.library.noaa.gov/discovery/search?query=any,contains,photogrammetry&tab=Everything&search_scope=MyInst_and_CI&vid=01NOAA_INST:NOAA&mfacet=rtype,include,datasets,1&lang=en&offset=0&pcAvailability=true)
-- [**Open Drone Map datasets**](https://www.opendronemap.org/odm/datasets/)
-- [**OpenHeritage datasets**](https://openheritage3d.org/data#%7B%7D)
-- [**Pix4D**](https://support.pix4d.com/hc/en-us/articles/360000235126-Example-projects-real-photogrammetry-data)
-- [**Sketchfab, A few free datasets**](https://sketchfab.com/3d-models/example-photogrammetry-datasets-free-ac9c30e8ae8c40da8217981862cc2147)
+- [BlendedMVS](https://github.com/YoYo000/BlendedMVS?tab=readme-ov-file)
+- [Capturing reality](https://www.capturingreality.com/free-datasets)
+- [Colmap datasets](https://colmap.github.io/datasets.html)
+- [Collection of 350+ free datasets for photogrammetry and 3d modelling](https://github.com/natowi/photogrammetry_datasets)
+- [Drone Mapper](https://dronemapper.com/sample_data/)
+- [DroneDb](https://hub.dronedb.app/r/odm)
+- [Emesent](https://emesent.com/resource-library/datasets/)
+- [Emesent](https://www.emesent.com/datasets)
+- [FigShare photogrammetry](https://figshare.com/search?q=%3Akeyword%3A%20%22photogrammetry%22&itemTypes=3)
+- [EPFL images and depth maps](https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/multiview/denseMVS.html)
+- [ISPRS Open Resources (datasets, papers, reports, presentations, education, software/hardware, templates, ...](https://www.isprs.org/resources/Default.aspx)
+- [ISPRS dataset collection](https://www.isprs.org/resources/datasets/)
+- [MicMac datasets](https://micmac.ensg.eu/index.php/Datasets)
+- [Harvest 4d datasets](https://harvest4d.org/index.html%3Fp=1367.html)
+- [NOAA Library Photogrammetry Datasets](https://discover.library.noaa.gov/discovery/search?query=any,contains,photogrammetry&tab=Everything&search_scope=MyInst_and_CI&vid=01NOAA_INST:NOAA&mfacet=rtype,include,datasets,1&lang=en&offset=0&pcAvailability=true)
+- [Open Drone Map datasets](https://www.opendronemap.org/odm/datasets/)
+- [Open Drone Map datasets 2](https://community.opendronemap.org/c/datasets/10)
+- [OpenHeritage datasets](https://openheritage3d.org/data#%7B%7D)
+- [Pix4D](https://support.pix4d.com/hc/en-us/articles/360000235126-Example-projects-real-photogrammetry-data)
+- [Sketchfab, A few free datasets](https://sketchfab.com/3d-models/example-photogrammetry-datasets-free-ac9c30e8ae8c40da8217981862cc2147)
 - [Reality Scan Sample datasets](https://dev.epicgames.com/community/learning/sample-projects/j20e/realityscan-sample-datasets)
-- [**Trimble Geospatial datasets**](https://geospatial.trimble.com/en/datasets)
-- [**UAV/RGB data**](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Skaloud%2C%20Jan%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
-- [**UNAVCO TLS datasets**](https://tls.unavco.org/projects/)
-- [**UNAVCO SFM datasets**](https://tls.unavco.org/sfm_projects)
-- [**Reconstruction Dataset**](https://github.com/rperrot/ReconstructionDataSet)
-- [**Wingtra UAV datasets**](https://wingtra.com/mapping-drone-wingtraone/aerial-map-types/data-sets-and-maps/)
+- [Settide Photos](http://www.settide.com/learn-downloadable-materials)
+- [Tanks and Temples](https://www.tanksandtemples.org/download/)
+- [Trimble Geospatial datasets](https://geospatial.trimble.com/en/datasets)
+- [UAV/RGB data](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Skaloud%2C%20Jan%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
+- [UNAVCO TLS datasets](https://tls.unavco.org/projects/)
+- [UNAVCO SFM datasets](https://tls.unavco.org/sfm_projects)
+- [Reconstruction Dataset](https://github.com/rperrot/ReconstructionDataSet)
+- [Wingtra UAV datasets](https://wingtra.com/mapping-drone-wingtraone/aerial-map-types/data-sets-and-maps/)
 
 
 # Individual datasets
 
-- [**UAV Canyelles Vineyard Dataset**](https://zenodo.org/records/14965547)
-- [**Terrestrial and aerial photos, GCPs and derived point clouds of a sinkhole in Northern Thuringia**](https://zenodo.org/records/6521706)
-- [**Images and Point Clouds Cultural Heritage Dataset**](https://zenodo.org/records/14626611)
-- [**TBC Aerial Photogrammetry**](https://geospatial.trimble.com/en/datasets/tbc-aerial-photogrammetry-no-gcps)
-- [**UAV dataset for photogrammetric processing**](https://figshare.com/articles/dataset/UAV_dataset_for_photogrammetric_processing/29377400)
-- [**Photogrammetry Beavers**](https://seattlechildrens1.app.box.com/v/PhotogrammetrySampleData)
-- [**Photogrammetry Images from DJI P4, point clouds scripts and supporting data**](https://data.4tu.nl/articles/dataset/Photogrammetry_Images_from_DJI_P4_point_clouds_scripts_and_supporting_data/14865225/1)
-- [**Drone / Unmanned Aerial Vehicle raw and processed photogrammetry data, supporting the MSc thesis work 3D River Discharge Modelling using UAV photogrammetry**](https://data.4tu.nl/datasets/63a75bfc-4845-4827-9840-da9f710efb36/1)
-- [**Rooms University Zürich**](https://www.ifi.uzh.ch/en/vmml/research/datasets.html)
-- [**Original point cloud from laser scanning of the Kladno railway station**](https://zenodo.org/records/14221915)
-- [**Omni Warsaw Dataset**](https://github.com/MapsHD/OmniWarsawDataset?tab=readme-ov-file)
+- [Kandiyohi County Landfill](https://community.opendronemap.org/t/kandiyohi-county-landfill/25254)
+- [Concrete stairs in urban park of Crevillent, Alicante (Spain)](https://zenodo.org/records/15063641)
+- [Kladno railway station point cloud](https://zenodo.org/records/14221915)
+- [UAV Canyelles Vineyard Dataset](https://zenodo.org/records/14965547)
+- [Terrestrial and aerial photos, GCPs and derived point clouds of a sinkhole in Northern Thuringia](https://zenodo.org/records/6521706)
+- [Images and Point Clouds Cultural Heritage Dataset](https://zenodo.org/records/14626611)
+- [TBC Aerial Photogrammetry](https://geospatial.trimble.com/en/datasets/tbc-aerial-photogrammetry-no-gcps)
+- [UAV dataset for photogrammetric processing](https://figshare.com/articles/dataset/UAV_dataset_for_photogrammetric_processing/29377400)
+- [Photogrammetry Beavers](https://seattlechildrens1.app.box.com/v/PhotogrammetrySampleData)
+- [Photogrammetry Images from DJI P4, point clouds scripts and supporting data](https://data.4tu.nl/articles/dataset/Photogrammetry_Images_from_DJI_P4_point_clouds_scripts_and_supporting_data/14865225/1)
+- [Drone / Unmanned Aerial Vehicle raw and processed photogrammetry data, supporting the MSc thesis work 3D River Discharge Modelling using UAV photogrammetry](https://data.4tu.nl/datasets/63a75bfc-4845-4827-9840-da9f710efb36/1)
+- [Rooms University Zürich](https://www.ifi.uzh.ch/en/vmml/research/datasets.html)
+- [Original point cloud from laser scanning of the Kladno railway station](https://zenodo.org/records/14221915)
+- [Omni Warsaw Dataset](https://github.com/MapsHD/OmniWarsawDataset?tab=readme-ov-file)
+- [Mesoscopic_photogrammetry_with_an_unstabilized_phone_camera](https://figshare.com/articles/dataset/Mesoscopic_photogrammetry_with_an_unstabilized_phone_camera_-_datasets/13363574)
 
 # Datasets for point cloud classification
 
@@ -60,7 +71,7 @@
 
 # Research datasets
 
-- [**Railroad Environment Mobile Laser Scanning Data**](https://zenodo.org/records/14415639)
+- [Railroad Environment Mobile Laser Scanning Data](https://zenodo.org/records/14415639)
    - ROAMER R4 mobile laser scanner developed at FGI was installed on a service locomotive at about 4 m height from the rails.
    - Riegl VUX-1HA laser scanner with unobstructed 360-degree view and ranging precision of 3 mm.
    - 2 km of track and 42.9M points.
@@ -68,15 +79,15 @@
    - 9 cm along-track profile spacing and point density varying between 300 pts/m2 (third-adjacent track) and 4500 pts/m2 (track straight below scanner).
    - Data includes geometry and intensity information as well as point-wise time stamps.
    - Both compressed (.laz) and uncompressed files (.las) are provided
-- [**Fuji SfM dataset**](https://zenodo.org/records/3712808#.XnD82iNCe01)
-- [**SilviLaser 2021 Benchmark Dataset**](https://doi.org/10.48436/kndye-egv02) Hollaus, M., & Chen, Y.-C. (2023).  Terrestrial Challenge (1.1) [Data set]. TU Wien.
-- [**UseGeo - UAV-based multi-sensor dataset for geospatial research**](https://github.com/3DOM-FBK/usegeo)
+- [Fuji SfM dataset](https://zenodo.org/records/3712808#.XnD82iNCe01)
+- [SilviLaser 2021 Benchmark Dataset](https://doi.org/10.48436/kndye-egv02) Hollaus, M., & Chen, Y.-C. (2023).  Terrestrial Challenge (1.1) [Data set]. TU Wien.
+- [UseGeo - UAV-based multi-sensor dataset for geospatial research](https://github.com/3DOM-FBK/usegeo)
    - a large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc.
 - **LiSurveying: A high-resolution TLS-LiDAR benchmark**
    - The first large-scale hybrid (point-wise and 3D bounding box) TLS-LiDAR dataset for LS.
    - LiSurveying provides 360 degrees of sensor coverage in multiple locations of the scene, where multiple scans are integrated to obtain a massive point-cloud representation.
    - LiSurveying provides rich data for research on object classification, semantic segmentation, and object detection for complex outdoor scenes.
-- [**An open-source photogrammetry workflow for reconstructing 3D models**](https://osf.io/b39yx/)
+- [An open-source photogrammetry workflow for reconstructing 3D models](https://osf.io/b39yx/)
 -  KITTI
    - a pioneer multimodal dataset that includes point-clouds from a LiDAR sensor as well as front-facing stereo images and GPS/IMU data. This dataset with 8 classes is useful for AV applications using MLS point-clouds and front-facing stereo images. This dataset contains about 15k point-cloud frames with 200k 3D bounding boxes on 22 different scenes.
 -  Paris-Lille-3D
@@ -84,11 +95,14 @@
 
 # Search portals
 
+- [Zenodo search point cloud](https://zenodo.org/search?q=point%20cloud&l=list&p=1&s=10&sort=bestmatch)
 - [Zenodo search laser scanning](https://zenodo.org/search?q=metadata.subjects.subject%3A%22laser%20scanning%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
 - [Google search, photogrammetric dataset download](https://www.google.com/search?q=photogrammetric+dataset+download)
 - [Zenodo search](https://zenodo.org/search?q=metadata.subjects.subject%3A%22Point%20Clouds%22&f=resource_type%3Adataset&l=list&p=2&s=10&sort=bestmatch)
 - [Zenodo search 2](https://zenodo.org/search?q=metadata.subjects.subject%3A%22UAV%22&f=resource_type%3Adataset&l=list&p=1&s=10&sort=bestmatch)
 - [Data in Brief search](https://www.sciencedirect.com/search?qs=photogrammetry&pub=Data+in+Brief&cid=311593)
+
+- [FigShare](https://figshare.com/)
 
 # Geomatics 
 - [Landslide4Sense](https://github.com/iarai/Landslide4Sense-2022)
@@ -102,11 +116,11 @@
 
 # Useful links 
 
-- [**Your Name in Landsat**](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
-- [**Photography based 3D modelling, reconstruction, laser scanning and photogrammetry**](https://paulbourke.net/reconstruction/)
-- [**Photogrammetry guide**](https://github.com/mikeroyal/Photogrammetry-Guide)
-- [**Awesome photogrammetry projects**](https://github.com/awesome-photogrammetry/awesome-photogrammetry)
-- [**UNAVCO Geospatial & TLS Software - User Tutorials and Resources**](https://kb.unavco.org/article/unavco-geospatial-tls-software-user-tutorials-and-resources-826.html)
+- [Your Name in Landsat](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
+- [Photography based 3D modelling, reconstruction, laser scanning and photogrammetry](https://paulbourke.net/reconstruction/)
+- [Photogrammetry guide](https://github.com/mikeroyal/Photogrammetry-Guide)
+- [Awesome photogrammetry projects](https://github.com/awesome-photogrammetry/awesome-photogrammetry)
+- [UNAVCO Geospatial & TLS Software - User Tutorials and Resources](https://kb.unavco.org/article/unavco-geospatial-tls-software-user-tutorials-and-resources-826.html)
 
 # Copyright
 
